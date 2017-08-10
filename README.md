@@ -1,3 +1,3 @@
 # Deep_Learning_Projects
-Udacity Projects Deep Learning ND 2017
+Udacity Projects Deep Learning ND 2017 <br>
 Project was completed in Jupyter Notebook using Python
